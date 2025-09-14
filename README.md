@@ -25,10 +25,12 @@ Além de prover o CRUD de usuários, o sistema registra tentativas de login, ace
 ---
 ## 📱 Interface do Usuário
 ```bash
-    ✔️ A interface do usuário que fará conexão com esse projeto foi desenvolvida em React Native na disciplina de Mobile Development, e pode ser conferida neste link:
-    https://www.youtube.com/watch?v=-WHlevglnhs
-    A funcionalidade de acompanhamento temporal será implementada na próxima sprint, apesar do painel ja estar concluído no front-end.
+✔️ A interface do usuário que fará conexão com esse projeto foi desenvolvida em React Native na disciplina de Mobile Development, e pode ser conferida neste link:  
+(A funcionalidade de acompanhamento temporal será implementada na próxima sprint, apesar do painel já estar concluído no front-end.)
 ```
+[🔗 Assistir no YouTube e verificar a Interface desenvolvida no Mobile](https://www.youtube.com/watch?v=-WHlevglnhs)  
+
+
 
 ## 📈 Diagrama Entidade Relacionamento (DER)
 ```bash
