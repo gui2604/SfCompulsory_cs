@@ -1,0 +1,6 @@
+@SfCompulsory_cs_HostAddress = http://localhost:5049
+
+GET {{SfCompulsory_cs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

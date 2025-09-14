@@ -1,0 +1,66 @@
+﻿# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio settings
+.vscode/
+.vs/
+
+# Logs
+*.log
+Logs/
+logs/
+*.tld
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Entity Framework Migrations snapshots
+*MigrationsSnapshot.cs
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.testlog
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Environment variables
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish
+publish/
+*.pubxml
+*.publishproj
