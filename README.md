@@ -23,6 +23,17 @@ O **SfCompulsory** é uma aplicação voltada para ajudar clientes a manter o co
 Além de prover o CRUD de usuários, o sistema registra tentativas de login, acessos e modificações no banco de dados, garantindo rastreabilidade total. Esses logs podem ser consumidos pela API ou diretamente dos arquivos para auditoria.
 
 ---
+## 📱 Interface do Usuário
+```bash
+    ✔️ A interface do usuário que fará conexão com esse projeto foi desenvolvida em React Native na disciplina de Mobile Development, e pode ser conferida neste link:
+    https://www.youtube.com/watch?v=-WHlevglnhs
+    A funcionalidade de acompanhamento temporal será implementada na próxima sprint, apesar do painel ja estar concluído no front-end.
+```
+
+## 📈 Diagrama Entidade Relacionamento (DER)
+```bash
+    ✔️ O DER do sistema pode ser visualizado no arquivo anexado à pasta raíz do projeto de nome: "diagrama_ER.png"
+```
 
 ## ✅ Requisitos do Sistema
 ```bash
