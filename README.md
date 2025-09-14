@@ -1,9 +1,11 @@
 ﻿# SfCompulsory_cs - C# Software Development
 
-## 🚀 3ESPV - Engenharia de Software 3º Ano - Global Solution 🖥️
+## 🚀 3ESPV - Engenharia de Software 3º Ano - Challenge - Sprint 3 🖥️
 ### 🧑‍💻 Guilherme Barreto Santos - RM97674
-### 🧑‍💻 Mateus Iago Sousa Conceição - RM550270
-### 🧑‍💻 Nicolas Oliveira da Silva - RM98939 
+### 🧑‍💻 Henrique Parra - RM551973
+### 🧑‍💻 Nicolas Oliveira da Silva - RM98939
+### 🧑‍💻 Roberto Oliveira - RM551460
+### 🧑‍💻 Tony Willian - RM550667
 
 ## 📄 Swagger:
 	- http://localhost:8080/swagger
