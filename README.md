@@ -128,11 +128,11 @@ SfCompulsory_cs/
 
 ## 🌐 Endpoints
 📌 Públicos
-```http
+```bash
 - POST /api/auth/login – Retorna token JWT
 ```
 🔐 Protegidos (requer Bearer Token)
-```http
+```bash
 - GET /api/users – Lista todos os usuários
 - GET /api/users/{id} – Consulta usuário por ID
 - POST /api/users – Cria novo usuário (senha armazenada com hash)
@@ -176,6 +176,6 @@ Esses logs podem ser consumidos via API (GET /api/logs) ou diretamente nos arqui
 
 ## 🐳 Executando com Docker
 ```bash
-docker build -t sfcompulsory-cs:1.0.0 .
-docker run --name container-sfcompulsory -p 8080:8080 sfcompulsory-cs:1.0.0
+docker build -t sfcompulsory-cs:v1.0.0 .
+docker run --name sfcompulsory-cs -p 8080:8080 sfcompulsory-cs:v1.0.0
 ```
